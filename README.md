@@ -15,3 +15,6 @@ The models are:
 ## Success Metric
 The model performance of this project will be analyzed using the mean squared error.
 
+## Credits
+Stephen Kolesh
+
